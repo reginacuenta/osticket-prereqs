@@ -109,3 +109,52 @@ Install MySQL 5.5.62.
 <p>
 Register PHP from within IIS. Install osTicket v1.15.8.
   <br />
+
+   <p>
+<img width="919" alt="Screenshot 2023-11-29 at 11 50 51 PM" src="https://github.com/reginacuenta/osticket-prereqs/assets/150301999/412daa71-1a57-45ee-a2ff-bff7ecea6a3d">
+
+</p>
+<p>
+Some extenstions are not enabled. 
+  <br />
+
+   <p>
+<img width="1216" alt="Screenshot 2023-11-29 at 11 51 26 PM" src="https://github.com/reginacuenta/osticket-prereqs/assets/150301999/e5e996c7-ed1f-41b2-b935-5e89184ec5d9">
+
+
+</p>
+<p>
+We have to enable them.
+  <br />
+
+   <p>
+<img width="909" alt="Screenshot 2023-11-29 at 11 52 25 PM" src="https://github.com/reginacuenta/osticket-prereqs/assets/150301999/57d0026b-5919-497e-a8c1-1419b2298624">
+
+</p>
+<p>
+Continue setting up OsTicket
+  <br />
+
+   <p>
+<img width="1014" alt="Screenshot 2023-11-29 at 11 52 55 PM" src="https://github.com/reginacuenta/osticket-prereqs/assets/150301999/4639ddce-3f6d-4cf1-8d15-9997c4df9387">
+
+</p>
+<p>
+Install HeidiSQL.
+  <br />
+
+   <p>
+<img width="647" alt="Screenshot 2023-11-29 at 11 54 29 PM" src="https://github.com/reginacuenta/osticket-prereqs/assets/150301999/5a9e914e-36b4-4599-9a08-5102d5f95d3b">
+
+</p>
+<p>
+Continue setting up Osticket in the browser.
+  <br />
+
+  <p>
+<img width="1028" alt="Screenshot 2023-11-29 at 11 55 29 PM" src="https://github.com/reginacuenta/osticket-prereqs/assets/150301999/60c735b3-00f5-465a-8259-852de93cabfe">
+
+</p>
+<p>
+Osticket is installed.
+  <br />
